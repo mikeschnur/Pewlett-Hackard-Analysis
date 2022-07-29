@@ -6,8 +6,10 @@ Pewlett Hackard has asked me to review their employee files and gather some info
 ## Results
 1. The first list created compiled all of the potential retirees within Pewlett Hackard. Although this query generated many duplicate results because certain employees hold mulitple positions within the company.
 2. After revising the first query using DISTINCT ON within SQL, the duplicates were eliminated by showing only the employee's most recent job title.
+
 ![Screen Shot 2022-07-28 at 11 06 03 PM](https://user-images.githubusercontent.com/108902185/181674527-3acbd679-26bf-4167-9cc8-3a5a2ca0baa5.png)
 3. Another query was then made to display the distribution of potential retirees throughout each Job Title.
+
 ![Screen Shot 2022-07-28 at 11 08 44 PM](https://user-images.githubusercontent.com/108902185/181674941-fdbb1ab1-d112-470d-be1e-6ada2d62c4e8.png)
 4. A final query was created to compile a list of all of the employees who are eligible to be mentored for a vacated position.
 
